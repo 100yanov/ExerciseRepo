@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\05.WordInPlural\bin\Debug\05.WordInPlural.exe.config
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\05.WordInPlural\bin\Debug\05.WordInPlural.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\05.WordInPlural\bin\Debug\05.WordInPlural.pdb
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\05.WordInPlural\obj\Debug\05.WordInPlural.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\05.WordInPlural\obj\Debug\05.WordInPlural.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\05.WordInPlural\obj\Debug\05.WordInPlural.pdb

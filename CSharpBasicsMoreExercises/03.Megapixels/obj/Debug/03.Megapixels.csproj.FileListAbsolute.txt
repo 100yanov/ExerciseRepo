@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\03.Megapixels\bin\Debug\03.Megapixels.exe.config
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\03.Megapixels\bin\Debug\03.Megapixels.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\03.Megapixels\bin\Debug\03.Megapixels.pdb
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\03.Megapixels\obj\Debug\03.Megapixels.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\03.Megapixels\obj\Debug\03.Megapixels.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\03.Megapixels\obj\Debug\03.Megapixels.pdb

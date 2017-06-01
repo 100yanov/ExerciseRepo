@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\SMS\bin\Debug\SMS.exe.config
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\SMS\bin\Debug\SMS.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\SMS\bin\Debug\SMS.pdb
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\SMS\obj\Debug\SMS.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\SMS\obj\Debug\SMS.pdb

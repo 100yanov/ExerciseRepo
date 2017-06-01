@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe.config
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.pdb
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.pdb

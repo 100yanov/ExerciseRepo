@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\12.TestNumbers\bin\Debug\12.TestNumbers.exe.config
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\12.TestNumbers\bin\Debug\12.TestNumbers.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\12.TestNumbers\bin\Debug\12.TestNumbers.pdb
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\12.TestNumbers\obj\Debug\12.TestNumbers.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\12.TestNumbers\obj\Debug\12.TestNumbers.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\12.TestNumbers\obj\Debug\12.TestNumbers.pdb

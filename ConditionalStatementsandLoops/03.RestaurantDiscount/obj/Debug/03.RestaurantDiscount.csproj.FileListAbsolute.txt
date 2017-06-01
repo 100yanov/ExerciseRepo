@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe.config
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.pdb
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\03.RestaurantDiscount\obj\Debug\03.RestaurantDiscount.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\03.RestaurantDiscount\obj\Debug\03.RestaurantDiscount.pdb
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\03.RestaurantDiscount\obj\Debug\03.RestaurantDiscount.csprojResolveAssemblyReference.cache

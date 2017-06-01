@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\06.DNASequences\bin\Debug\06.DNASequences.exe.config
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\06.DNASequences\bin\Debug\06.DNASequences.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\06.DNASequences\bin\Debug\06.DNASequences.pdb
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\06.DNASequences\obj\Debug\06.DNASequences.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\06.DNASequences\obj\Debug\06.DNASequences.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\06.DNASequences\obj\Debug\06.DNASequences.pdb

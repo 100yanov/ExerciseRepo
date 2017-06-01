@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\13.GameofNumbers\bin\Debug\13.GameofNumbers.exe.config
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\13.GameofNumbers\bin\Debug\13.GameofNumbers.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\13.GameofNumbers\bin\Debug\13.GameofNumbers.pdb
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\13.GameofNumbers\obj\Debug\13.GameofNumbers.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\13.GameofNumbers\obj\Debug\13.GameofNumbers.pdb
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\13.GameofNumbers\obj\Debug\13.GameofNumbers.csprojResolveAssemblyReference.cache

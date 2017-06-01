@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\01.ChooseADrink\bin\Debug\01.ChooseADrink.exe.config
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\01.ChooseADrink\bin\Debug\01.ChooseADrink.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\01.ChooseADrink\bin\Debug\01.ChooseADrink.pdb
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\01.ChooseADrink\obj\Debug\01.ChooseADrink.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\01.ChooseADrink\obj\Debug\01.ChooseADrink.exe
+E:\Visual Studio\Projects\ConditionalStatementsandLoops\01.ChooseADrink\obj\Debug\01.ChooseADrink.pdb

@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\02.VaporStore\bin\Debug\02.VaporStore.exe.config
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\02.VaporStore\bin\Debug\02.VaporStore.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\02.VaporStore\bin\Debug\02.VaporStore.pdb
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\02.VaporStore\obj\Debug\02.VaporStore.exe
+E:\Visual Studio\Projects\CSharpBasicsMoreExercises\02.VaporStore\obj\Debug\02.VaporStore.pdb
